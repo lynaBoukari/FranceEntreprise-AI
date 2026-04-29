@@ -2,8 +2,8 @@
 
 > Assistant conversationnel intelligent basé sur une architecture RAG pour répondre aux questions sur l'entrepreneuriat en France.
 
-![Interface FranceEntreprise AI](screenshots/démo.png)
-![Interface FranceEntreprise AI](screenshots/démo2.png)
+<img src="screenshots/démo2.png" width="700"/>
+<img src="screenshots/démo.png" width="700"/>
 ---
 
 ## 🎯 Présentation
